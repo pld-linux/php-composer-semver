@@ -2,7 +2,7 @@
 Summary:	Semver library that offers utilities, version constraint parsing and validation
 Name:		php-composer-%{pkgname}
 Version:	1.5.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	https://github.com/composer/semver/archive/%{version}/%{pkgname}-%{version}.tar.gz
